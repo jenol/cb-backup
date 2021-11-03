@@ -1,4 +1,4 @@
-# Agoda Homes Couchbase Backup #
+# Couchbase Backup #
 
 This script is using **[cbtransfer.exe](https://developer.couchbase.com/documentation/server/current/cli/cbtransfer-tool.html)** which is installed on machines with Couchbase.
 
